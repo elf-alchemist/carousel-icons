@@ -12,5 +12,8 @@ Namely, after my favorite source port, [Woof!](https://github.com/fabiangreffrat
 
 Check the official Doomworld Forums [thread](https://www.doomworld.com/vb/thread/150923) for this project.
 
+Credits to the original set of icons goes to Julia Nechaevskaya.
 
+Thanks to Djoga for improving my first edit, becoming the basis for most other edits of mine.
+Melodic Spaceship, for making the Chex Quest icons.
 
