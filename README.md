@@ -28,16 +28,13 @@ Note 1: While this DeHackEd option can define custom  in any compatibility level
 | Woof          | :heavy_check_mark:    | :heavy_check_mark: | :x:                | :heavy_check_mark: | [GitHub](https://github.com/fabiangreffrath/woof/releases/latest) |
 | Nugget        | :heavy_check_mark:    | :heavy_check_mark: | :x:                | :heavy_check_mark: | [GitHub](https://github.com/MrAlaux/Nugget-Doom/releases/latest) |
 | Cherry        | :heavy_check_mark:    | :heavy_check_mark: | :x:                | :heavy_check_mark: | [GitHub](https://github.com/xemonix0/Cherry-Doom/releases/latest) |
-| Chocolate     | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com//releases/latest) |
 | Crispy        | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/fabiangreffrath/crispy-doom/releases/latest) |
 | International | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/JNechaevsky/international-doom/releases/latest) |
-| PrBoom+um     | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/coelckers/prboom-plus/releases/latest) |
 | PrBoomX       | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/JadingTsunami/prboomX/releases/latest) |
 | DSDA          | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/kraflab/dsda-doom/releases/latest) |
 | Nyan          | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/andrikpowell/nyan-doom/releases/latest) |
 | Eternity      | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/team-eternity/eternity/releases/latest) |
 | Retro         | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/bradharding/doomretro/releases/latest) |
-| Legacy        | :x:                   | N/A                | N/A                | N/A                | [SourceForge](https://sourceforge.net/projects/doomlegacy/files/) |
 | Doomsday      | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/skyjake/Doomsday-Engine/releases/latest) |
 | Odamex        | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/odamex/odamex/releases/latest) |
 | ZDoom         | :warning:<sup>2</sup> | N/A                | N/A                | N/A                | [GitHub](https://github.com/rheit/zdoom/releases/latest) |
