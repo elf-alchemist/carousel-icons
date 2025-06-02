@@ -20,6 +20,7 @@ Check the official Doomworld Forums [thread](https://www.doomworld.com/vb/thread
 | DeHackEd  | Is the entry `Carousel Icon = "<lumpname>"` supported on the `Weapon` DeHackEd definitions?<sup>1</sup> |
 
 Note 1: While this DeHackEd option can define custom icons in any compatibility level, it is mainly useful in ID24-compatible ports, where additional custom weapon definitions are possible.  
+
 Note 2: See the following screenshots for the looping visual.
 <details>
   <summary>Looing on KEX</summary>
@@ -28,7 +29,7 @@ Note 2: See the following screenshots for the looping visual.
   </div>
 </details>
 <details>
-  <summary>Non-Looing on KEX</summary>
+  <summary>Non-Looing on Woof!</summary>
   <div align="center">
     <img src="./data/looping_woof.png">
   </div>
