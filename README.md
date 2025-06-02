@@ -20,7 +20,7 @@ Check the official Doomworld Forums [thread](https://www.doomworld.com/vb/thread
 | DeHackEd  | Is the entry `Carousel Icon = "<lumpname>"` supported on the `Weapon` DeHackEd definitions?<sup>1</sup> |
 
 Note 1: While this DeHackEd option can define custom icons in any compatibility level, it is mainly useful in ID24-compatible ports, where additional custom weapon definitions are possible.  
-Note 2:
+Note 2: See the following screenshots for the looping visual.
 <details>
   <summary>Looing on KEX</summary>
   <div align="center">
@@ -51,16 +51,16 @@ Note 2:
 | Retro         | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/bradharding/doomretro/releases/latest) |
 | Doomsday      | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/skyjake/Doomsday-Engine/releases/latest) |
 | Odamex        | :x:                   | N/A                | N/A                | N/A                | [GitHub](https://github.com/odamex/odamex/releases/latest) |
-| ZDoom         | :warning:<sup>2</sup> | N/A                | N/A                | N/A                | [GitHub](https://github.com/rheit/zdoom/releases/latest) |
-| GZDoom        | :warning:<sup>2</sup> | N/A                | N/A                | N/A                | [GitHub](https://github.com/ZDoom/gzdoom/releases/latest) |
-| Zandronum     | :warning:<sup>2</sup> | N/A                | N/A                | N/A                | [WebPage](https://zandronum.com/download) |
-| Q-Zandronum   | :warning:<sup>2</sup> | N/A                | N/A                | N/A                | [GitHub](https://github.com/IgeNiaI/Q-Zandronum/releases/latest) |
+| ZDoom         | :warning:<sup>3</sup> | N/A                | N/A                | N/A                | [GitHub](https://github.com/rheit/zdoom/releases/latest) |
+| GZDoom        | :warning:<sup>3</sup> | N/A                | N/A                | N/A                | [GitHub](https://github.com/ZDoom/gzdoom/releases/latest) |
+| Zandronum     | :warning:<sup>3</sup> | N/A                | N/A                | N/A                | [WebPage](https://zandronum.com/download) |
+| Q-Zandronum   | :warning:<sup>3</sup> | N/A                | N/A                | N/A                | [GitHub](https://github.com/IgeNiaI/Q-Zandronum/releases/latest) |
 
-Note 2: In the ZDoom port family, it is possible to recreate the feature with `SBARINFO` or ZScript. All features of these separate mods are completely implementation-depended, and may not necessarily reflect the behavior in the natively supported versions.  
+Note 3: In the ZDoom port family, it is possible to recreate the feature with `SBARINFO` or ZScript. All features of these separate mods are completely implementation-depended, and may not necessarily reflect the behavior in the natively supported versions.  
 
 | Weapon              | Non-selected | Selected  |
 |---------------------|--------------|-----------|
-| Unknown<sup>3</sup> | `SMUNKN0`    | `SMUNKN1` |
+| Unknown<sup>4</sup> | `SMUNKN0`    | `SMUNKN1` |
 | Fist                | `SMFIST0`    | `SMFIST1` |
 | Chainsaw            | `SMCSAW0`    | `SMCSAW1` |
 | Pistol              | `SMPISG0`    | `SMPISG1` |
@@ -71,7 +71,7 @@ Note 2: In the ZDoom port family, it is possible to recreate the feature with `S
 | Plasma Gun          | `SMPLAS0`    | `SMPLAS1` |
 | BFG9000             | `SMBFGG0`    | `SMBFGG1` |
 
-Note 3: A "question mark" icon, used  primarily as a default / fallback for the `Carousel Icon = "<lumpname>"` DeHackEd entry.  
+Note 4: A "question mark" icon, used  primarily as a default / fallback for the `Carousel Icon = "<lumpname>"` DeHackEd entry.  
 
 # Screenshots
 
