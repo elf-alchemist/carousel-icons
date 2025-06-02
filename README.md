@@ -12,16 +12,30 @@ Check the official Doomworld Forums [thread](https://www.doomworld.com/vb/thread
 
 ### Feature support
 
-| Name     | Description |
-|----------|-------------|
-| Native   | Is the Weapon Carousel natively supported on this port? |
-| Animated | Does the Weapon Carousel animated smoothly when switching weapons? |
-| Seamless | Does the Weapon Carousel flow seamlessly from the final weapon to the initial one? |
-| DeHackEd | Is the entry `Carousel Icon = "<lumpname>"` supported on the `Weapon` DeHackEd definitions?<sup>1</sup> |
+| Name      | Description |
+|-----------|-------------|
+| Native    | Is the Weapon Carousel natively supported on this port? |
+| Animated  | Does the Weapon Carousel animated smoothly when switching weapons? |
+| Looping   | Does the Weapon Carousel visually loop between the final and initial weapon slots?<sup>2</sup> |
+| DeHackEd  | Is the entry `Carousel Icon = "<lumpname>"` supported on the `Weapon` DeHackEd definitions?<sup>1</sup> |
 
-Note 1: While this DeHackEd option can define custom  in any compatibility level, it is mainly useful in ID24-compatible ports, where custom weapon definitions are possible.  
+Note 1: While this DeHackEd option can define custom icons in any compatibility level, it is mainly useful in ID24-compatible ports, where additional custom weapon definitions are possible.  
+Note 2:
+<details>
+  <summary>Looing on KEX</summary>
+  <div align="center">
+    <img src="./data/looping_kex.png">
+  </div>
+</details>
+<details>
+  <summary>Non-Looing on KEX</summary>
+  <div align="center">
+    <img src="./data/looping_woof.png">
+  </div>
+</details>
 
-| Port          | Native                | Animated           | Seamless loop      | DeHackEd           | Download |
+
+| Port          | Native                | Animated           | Looping     | DeHackEd           | Download |
 |---------------|:---------------------:|:------------------:|:------------------:|:------------------:|----------|
 | Unity         | :heavy_check_mark:    | :x:                | :heavy_check_mark: | :x:                | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3305430327) |
 | KEX           | :heavy_check_mark:    | :x:                | :heavy_check_mark: | :heavy_check_mark: | [Steam](https://store.steampowered.com/app/2280/) / [GOG](https://www.gog.com/en/game/doom_doom_ii) |
@@ -82,6 +96,6 @@ Note 3: A "question mark" icon, used  primarily as a default / fallback for the 
 
 * id Software, for creating the set of icons used in the official Unity/KEX Doom ports.  
 * Julia Nechaevskaya, for creating the set of icons used in Woof!, of which almost all featured here are based on.  
-* Scuba Steve, who crated many icon sets for various pre-existing  
+* Scuba Steve, who crated many icon sets for various pre-existing WADs.
 * And thanks to my friend, Djoga, for pushing me forward to try and make my own edits, leading me down this road.  
-* More, in-depth attribution can be found in the Forum thread.  
+* More, in-depth attribution can be found in the Forum thread.
